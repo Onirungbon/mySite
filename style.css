@@ -1,0 +1,38 @@
+.my_name{
+    font-style: italic;
+    color: blue;
+    text-align: center;
+    }
+    img{
+         border-color: rgb(8, 4, 4);
+         width: 100px;
+          float: center;
+          vertical-align: 50px;
+     }
+     .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 15%;
+      }
+    
+    .border_style{
+        border-color: yellowgreen;
+        border-bottom-color: black;
+        border-right-color: brown;
+        border-left-color: brown;
+        border-top-color: black;
+        border-width: 10px;
+        border-style:double;
+        border-radius: 10px;
+    }
+body{
+    background-color: #22705c;
+    }
+p{
+    color:black;
+    font: outline;
+    
+       
+}
+
